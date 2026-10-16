@@ -82,7 +82,7 @@ const PROJECTS = [
     },
     tags: ["Python", "Flask", "LibreHardwareMonitor", "JavaScript"],
     links: [github("https://github.com/nono271105/PC-Dashboard")],
-    images: []
+    images: ["1.png"]
   },
   {
     id: "mark-it-down",
