@@ -32,7 +32,7 @@ const demo = (url) => ({
 });
 
 const PROJECTS = [
-{
+  {
     id: "option-pricer",
     title: "Option Pricer",
     featured: true,
@@ -44,8 +44,7 @@ const PROJECTS = [
     tags: ["React", "TypeScript", "FastAPI", "Python", "Plotly", "NumPy", "SciPy"],
     links: [
       demo("https://option-pricer-mas.vercel.app/"),
-      github("https://github.com/nono271105/option-pricer/tree/react-migration",
-        { fr: "Code sur GitHub (branche react-migration)", en: "Code on GitHub (react-migration branch)" })
+      github("https://github.com/nono271105/option-pricer")
     ],
     images: ["BSM.png", "3D.png", "CRR.png", "option_chain.png", "smile.png", "exotiques.png", "simulation.png", "strategies.png"]
   },
